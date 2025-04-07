@@ -9,7 +9,7 @@
 - Git & GitHub
 - Jenkins
 - Linux Commands
-- AWS & GCP ☁️
+- AWS, AZURE & GCP ☁️
 - Terraform (IaC)
 - Monitoring with Prometheus & Grafana
 
